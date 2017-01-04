@@ -11,10 +11,20 @@ Managed to finally get my buttons working. Several things must happen when the b
 
 
 
-### Day 1:
+### Day 1: 03 Feb, 2017 (Updated day after!)
+
+**Today's Progress**: Started SoloLearn PHP course. This is just to go over the basics for a PHP project I am to start work on soon. 
+
+**Thoughts:** Quite good and not as difficult as I remember PHP to have been the first time I saw it!
+
+**Link to work:** - reached module 7 https://www.sololearn.com/Course/PHP/ 
+
+
+
+### Day 2: 00 Jan, 2017
 
 **Today's Progress**:  
 
-**Thoughts:**
+**Thoughts:** 
 
-**Link to work:**
+**Link to work:** 
