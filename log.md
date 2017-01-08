@@ -21,10 +21,38 @@ Managed to finally get my buttons working. Several things must happen when the b
 
 
 
-### Day 2: 00 Jan, 2017
+### Day 2: 04 Jan, 2017
 
-**Today's Progress**:  
+**Today's Progress**:  Debugging someone else's code in C#. Helped implement a few improvements to their code and made some suggestions about what to do differently. The problem was to do with selecting random things from one list and moving them to another list. 
 
-**Thoughts:** 
+**Thoughts:** Started with suggestions rather than just doing it for them. So for example suggested using a second list to hold the random character strings before using them elsewhere. This allowed the random process to work and avoided using the same strings twice. After their solution (which was 30 ish if else statments) suggested using a loop instead but had to provide help to make this work. 
 
-**Link to work:** 
+**Link to work:** N/A
+
+
+### Day 2: 05 Jan, 2017
+
+**Today's Progress**: Code review with my tutor on my C# project. We looked at how my code was structured and worked together to remove dependences on Window's Form elements so that the methods and objects could work elsewhere. A change included changing parameters from Windows objects to strings. Also looked at what other objects could be added in the future when more database elements are added. 
+
+**Thoughts:** Went quite well but left my code a mess which will take a bit of time to get back in order, however the changes are beneficial in the long run!
+
+**Link to work:**  To follow soon!
+
+
+### Day 2: 06 Jan, 2017
+
+**Today's Progress**: More Sololearn PHP. 
+
+**Thoughts:** Looking foward to starting PHP project!
+
+**Link to work:**  N/A
+
+
+### Day 2: 07 Jan, 2017
+
+**Today's Progress**: Followed some tutorials on PHP on YouTube.
+
+**Thoughts:** Starting PHP project tomorrow!
+
+**Link to work:**  N/A
+
