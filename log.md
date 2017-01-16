@@ -30,7 +30,7 @@ Managed to finally get my buttons working. Several things must happen when the b
 **Link to work:** N/A
 
 
-### Day 2: 05 Jan, 2017
+### Day 3: 05 Jan, 2017
 
 **Today's Progress**: Code review with my tutor on my C# project. We looked at how my code was structured and worked together to remove dependences on Window's Form elements so that the methods and objects could work elsewhere. A change included changing parameters from Windows objects to strings. Also looked at what other objects could be added in the future when more database elements are added. 
 
@@ -39,7 +39,7 @@ Managed to finally get my buttons working. Several things must happen when the b
 **Link to work:**  To follow soon!
 
 
-### Day 2: 06 Jan, 2017
+### Day 5: 06 Jan, 2017
 
 **Today's Progress**: More Sololearn PHP. 
 
@@ -48,11 +48,21 @@ Managed to finally get my buttons working. Several things must happen when the b
 **Link to work:**  N/A
 
 
-### Day 2: 07 Jan, 2017
+### Day 6: 07 Jan, 2017
 
 **Today's Progress**: Followed some tutorials on PHP on YouTube.
 
 **Thoughts:** Starting PHP project tomorrow!
 
 **Link to work:**  N/A
+
+### Day 7 - 15: 08 Jan - 16th Jan, 2017
+
+**Today's Progress**: Started PHP project and so have been working on the ground work for that along with some of the other Sololearn tutorials to refesh on HTML, JS and CSS. 
+
+**Thoughts:** Have to remember to update daily!
+
+**Link to work:**  N/A - on GitHub soon!
+
+
 
