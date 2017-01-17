@@ -65,4 +65,10 @@ Managed to finally get my buttons working. Several things must happen when the b
 **Link to work:**  N/A - on GitHub soon!
 
 
+### Day 8 : 17th Jan, 2017
 
+**Today's Progress**: Just more PHP and SQL today. Discussed SQL table set up for PHP project. Started on creation of web forms etc. Still unsure of what tables we will use so can't progress a huge amount yet so just working on general bits at the moment.
+
+**Thoughts:** SQL plans can be quite complicated! 
+
+**Link to work:**  N/A - on GitHub soon!
