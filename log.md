@@ -72,3 +72,13 @@ Managed to finally get my buttons working. Several things must happen when the b
 **Thoughts:** SQL plans can be quite complicated! 
 
 **Link to work:**  N/A - on GitHub soon!
+
+
+### Day 700 : 15th June, 2017
+
+**Today's Progress**: Well this clearly didn't work out! However during this time I have actually created a new site, just not by using GitHub. Originally had to work on college systems and then was on a bit of a crunch to get everything done in time. Finally finished all the work so can start this over again and focus on extra bits. 
+
+**Thoughts:** The best time to plant a tree is now. 
+
+**Link to work:**  www.alexanderchapman.co.uk/cms
+
